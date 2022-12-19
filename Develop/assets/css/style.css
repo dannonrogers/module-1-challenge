@@ -92,11 +92,11 @@ h3 {
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 15px;
+    margin-left: 25px;
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-right: 25px;
     padding: 20px;
     clear: both;
     float: right;
