@@ -1,12 +1,36 @@
+/* Element Selectors */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* background color styling */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 13px;
+}
+
 body {
     background-color: #d9dcd6;
 }
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 16.5px;
+}
+
+/* Class Selectors */
 /* header styling */
 .header {
     padding: 20px;
@@ -44,22 +68,14 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-/* Paragraph font size */
-p {
-    font-size: 13px;
-}
 
 .hero {
     height: 635px;
     width: 100%;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size:contain;
+    background-size:cover;
     background-repeat:no-repeat;
-    background-position:fill;
+    background-position:center;
+    margin-bottom: 20px;
 }
 
 .float-left {
@@ -105,20 +121,6 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 .benefit-lead img {
     display: block;
@@ -177,21 +179,6 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 30px;
-    font-weight: 600;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
