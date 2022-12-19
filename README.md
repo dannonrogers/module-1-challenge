@@ -6,6 +6,8 @@ This exercise provided a real world example of resolving a feature request/on-th
 ## Usage
 Visit <a href=https://dannonrogers.github.io/module-1-challenge/>https://dannonrogers.github.io/module-1-challenge/</a> to view the webpage. 
 
+![alt text](/Develop/assets/images/Screenshot%202022-12-18%20at%2010.32.13%20PM.png)
+
 ## Credits
 Contributor: Xandromus - Xander Rapstine
 
