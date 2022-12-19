@@ -4,7 +4,7 @@
 This exercise provided a real world example of resolving a feature request/on-the-job ticket, requesting a refactoring of starter code to enhance site accessibility and functionality. This tested and confirmed my understanding of basic/advanced HTML, CSS, & my ability to successfully collaborate using Git.
 
 ## Usage
-
+Visit <a href=https://dannonrogers.github.io/module-1-challenge/>https://dannonrogers.github.io/module-1-challenge/</a> to view the webpage. 
 
 ## Credits
 Contributor: Xandromus - Xander Rapstine
